@@ -1,9 +1,3 @@
-<h3>Watch the video:</h3>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rxBBRLWF0mM" 
-frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; 
-gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-
 Here's a simple and delicious **Focaccia Bread** recipe you can make at home:
 
 ---
