@@ -1,7 +1,3 @@
-Sure! Here's a classic **Tiramisu** recipe that yields a rich, creamy, and authentic Italian dessert:
-
----
-
 ## **Classic Tiramisu Recipe**
 
 ### **Ingredients**
